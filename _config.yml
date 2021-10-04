@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: Juicy Vapes
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Juicy Vapes
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://juicyvapes.github.io" # the base hostname & protocol for your site
